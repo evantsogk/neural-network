@@ -7,3 +7,4 @@ with minibatch size = 200.
 <img src="./mnist_300_2.png">
 
 
+.
